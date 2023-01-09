@@ -1,0 +1,135 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.primary-color{
+    color: rgb(245, 56, 9);
+}
+
+.btn{ border:white;
+    padding: 20px;
+    background-color: rgb(252, 95, 5);
+    color: aliceblue;
+    font-size: 30px;
+    margin-right: 20px;
+}
+
+.btn-service{
+    color: rgb(104, 102, 102);
+    background-color: rgb(230, 237, 243);
+    border: 5px rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.service-title{
+  font-size: 50px;
+  padding-bottom: 20px;
+}
+.service-description{
+padding-bottom: 20px;
+}
+
+.service-list{
+    margin-bottom: 40px;
+}
+/* nav header */
+.nav{
+ background-color: rgba(179, 178, 178, 0.945);
+    display: flex;
+    justify-content: space-between;
+    height: 100% ;
+}
+.nav-option{
+    margin: 50px;
+   margin-left: 10px;
+   font-size:30px;
+}
+.nav-option-button{
+    display: flex;
+   justify-content: space-between;
+   list-style: none;
+   margin-right: 100px;
+  
+}
+
+.button{
+    
+    height: 10px;
+    padding-left: 120px;
+    
+}
+
+.logo{
+    margin: 0px;
+  padding: 10px 10px;
+  height:
+   
+}
+
+/* Background with text */
+
+.service-details{
+    background-color: black;
+    color: white;
+}
+.bgimg{
+  
+   background-image: url(../images/study.jpg);
+   
+   
+   height: 1440px;
+    width:100%;
+   background-repeat: no-repeat;
+  background: contain ;
+   text-align: center;
+  
+   
+   background-size: cover;
+   
+  
+  
+}
+.container-text{ color: aliceblue;
+   justify-items: center;
+  padding-top: 720px ;
+}
+.container-text h1 {
+   
+   font-size: 80px;
+   padding-bottom: 20px;
+}
+
+.container-text p{
+    padding-bottom: 30px;
+    font-size: 30px;
+}
+
+/* author Details */
+
+.author-details{
+    display: flex;
+}
+
+.moreinfo-btn{
+    margin-left: 50px;
+}
+
+.author-details{
+align-items: center;
+    
+        
+}
+
+.author-name{
+    text-align: center;
+    padding-right: 20px;
+    border-right: 5px solid white;
+}
+.moreinfo-btn{
+    color: darkgray;
+    background-color: aliceblue;
+    padding: 10px;
+}
